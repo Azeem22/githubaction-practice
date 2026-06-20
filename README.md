@@ -4,4 +4,4 @@
 
 ## wrorkflow
 
-# To create github acton flow youneed a folder called 'github/workflow'
+# To create github acton flow youneed a folder called '.github/workflow'
